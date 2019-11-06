@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  box-sizing: border-box;
+
+}
+
+.clickeble{
+  cursor:pointer;
+  border: 1px solid #ccc;;
 }
 
 .App-logo {
